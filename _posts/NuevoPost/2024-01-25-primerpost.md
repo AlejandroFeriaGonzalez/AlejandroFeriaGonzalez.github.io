@@ -4,8 +4,6 @@ date: 2024-01-25
 image: repo.png
 ---
 
-<h1> titulo</h1>
-forma 1<br>
-![imagen](repo.png)<br>
-forma 2<br>
-<img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
+# Como poner imagenes
+- las pones en la carpeta de assets
+![imagen](/assets/img/primer_post/repo.png)
